@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      export_to_xls:
+        title: "Export to xls"
+        menu: "Export to xls"
+        breadcrumb: "Export to xls"
+        link: "Export to xls"
+        bulk_link: "Export to xls selected %{model_label_plural}"
+        done: "Done"
